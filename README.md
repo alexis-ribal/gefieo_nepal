@@ -26,10 +26,10 @@ Source: https://acleddata.com/
 
 ### GEF periods definition
 
-GEF-5: 2010-2014
-GEF-6: 2014-2018
-GEF-7: 2018-2022
-GEF-8: 2022-2026
+- GEF-5: 2010-2014
+- GEF-6: 2014-2018
+- GEF-7: 2018-2022
+- GEF-8: 2022-2026
 
 
 ### Link to map
