@@ -8,7 +8,7 @@ Source: GEF IEO staff
 2. High biodiversity areas. A composite of all unprotected areas not captured by Species rarity sites, encompassing two major land classifications: biodiversity hotspots and high beta biodiversity areas.
 Source: https://www.science.org/doi/10.1126/sciadv.abb2824
 
-3. Intact wildness areas. Derived from 'Are we capturing faunal intactness?' (Plumtree et al 2019) and 'Sixteen years of change in the global terrestrial human footprint' (Venter et al 2016).
+3. Intact wilderness areas. Derived from 'Are we capturing faunal intactness?' (Plumtree et al 2019) and 'Sixteen years of change in the global terrestrial human footprint' (Venter et al 2016).
 Source: https://www.science.org/doi/10.1126/sciadv.abb2824
 
 4. Protected areas. Protected areas designated by the Department of National Parks and Wildlife Conservation of the Ministry of Forest and compiled by the National Trust for Nature Conservation of Nepal
