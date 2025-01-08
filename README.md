@@ -23,6 +23,9 @@ Source: https://www.landmarkmap.org/map
 7. Conflict events resulting in at least 1 fatality for different GEF periods.
 Source: https://acleddata.com/
 
+8. Small Grants Programme projects in Nepal provided by the UNDP National Coordinator office.
+Source: https://sgp.undp.org/component/countrypages/?view=countrypage&country=82
+
 
 ### GEF periods definition
 
